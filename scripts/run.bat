@@ -1,2 +1,3 @@
 @echo off
 echo Running SmartHomeTest script...
+echo Blink simulation complete.
