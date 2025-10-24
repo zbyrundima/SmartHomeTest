@@ -20,7 +20,7 @@ void setup() {
   digitalWrite(pinGreen, LOW);
 }
 
-void loop( {
+void loop() {
   // Read button state
   buttonState = digitalRead(buttonPin);
 
